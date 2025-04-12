@@ -36,6 +36,7 @@ This project demonstrates proficiency in modern web development, clean code arch
 
 
 Simulador de geração de energia solar com parâmetros reais, análise de economia e ROI. Desenvolvido com arquitetura limpa e tecnologias modernas.
+
 Simulador SolarTech é um sistema fullstack projetado para simular a geração de energia solar fotovoltaica com base em parâmetros técnicos e dados reais, como localização geográfica, inclinação de painéis, radiação solar e perfil de consumo energético.
 
 A aplicação tem como finalidade oferecer uma ferramenta precisa e intuitiva para análise de viabilidade e retorno sobre investimento em sistemas fotovoltaicos, sendo aplicável em contextos educacionais, profissionais e corporativos.
