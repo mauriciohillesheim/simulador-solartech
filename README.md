@@ -1,5 +1,4 @@
 # simulador-solartech
-Solar energy simulator using real-world data, ROI analysis, and savings estimates. Built with clean architecture and modern web technologies. 
 SolarTech Simulator is a fullstack web application designed to simulate photovoltaic solar energy generation based on technical parameters and real-world data such as geographic location, panel tilt, solar radiation, and energy consumption profile.
 
 The platform aims to provide a reliable and user-friendly tool for analyzing the feasibility and return on investment (ROI) of solar power systems, suitable for educational, professional, and enterprise-level use cases.
